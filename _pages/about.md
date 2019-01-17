@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. Candidate and member of the D3M Lab in the department of Mechanical and Industrial Engineering at the University of Toronto. I am co-supervised by Professors Professors Scott Sanner and William O’Brien.
+* I am a Ph.D. Candidate and member of the D3M[http://d3m.mie.utoronto.ca] Lab in the department of Mechanical and Industrial Engineering at the University of Toronto. I am co-supervised by Professors Professors Scott Sanner and William O’Brien.
 
 * Thats it for now
 

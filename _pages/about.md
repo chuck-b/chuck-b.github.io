@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "who is this Brent character"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:

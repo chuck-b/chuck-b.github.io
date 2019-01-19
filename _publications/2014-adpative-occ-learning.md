@@ -8,10 +8,3 @@ venue: 'Building Research & Information'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/09613218.2014.895248'
 citation: 'Gunay, H. B., O'Brien, W., Beausoleil-Morrison, I., & Huchuk, B. (2014). <i>On adaptive occupant-learning window blind and lighting controls<\i>. Building Research & Information, 42(6), 739-756.'
 ----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/09613218.2014.895248)
-
-Recommended citation:  H. Burak Gunay, William O'Brien, Ian Beausoleil-Morrison & Brent Huchuk (2014) 
- On adaptive occupant-learning window blind and lighting controls, <i>Building Research & Information,<\i>, 
- 42:6, 739-756, DOI: 10.1080/09613218.2014.895248 

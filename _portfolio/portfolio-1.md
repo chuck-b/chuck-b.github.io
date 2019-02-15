@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Team Ontario Solar Decathlon 2013"
+excerpt: "Contributor to the Team Ontario Echo Home [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nH0mIUY_jt0/0.jpg)](http://www.youtube.com/watch?v=nH0mIUY_jt0)"
 collection: portfolio
 ---
 

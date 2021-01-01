@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020-present: Research Student  
+* 2020-present: Student Researcher
   * National Research Council
   * Duties included: Portfolio savings verification, literature review, data-driven analytics tools
 

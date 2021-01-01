@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2015-2017: Data Scientist 
+* 2020-present: Research Student  
+  * National Research Council
+  * Duties included: Portfolio savings verification, literature review, data-driven analytics tools
+
+* 2015-2020: Data Scientist 
   * ecobee Inc
   * Duties included: Energy modelling, feature development, metric development 
   
@@ -35,9 +39,9 @@ Skills
 ======
 * EnergyPlus
 * Python
-* Data Analysis
-* Data Mining
+* Data Science
 * Deep Nets
+* Reinforcement Learning
 
 Publications
 ======
@@ -45,8 +49,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  -->
